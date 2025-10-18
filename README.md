@@ -2,6 +2,7 @@
 
 JAVA_SELENIUM Framework
 
-this needs HTML <br>
+<br>
 
-<h1>JAVA SEL</h1>
+<h1> Readme file works as HTML doc 
+  </h1>
